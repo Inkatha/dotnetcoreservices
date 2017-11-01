@@ -1,0 +1,10 @@
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/bin/Debug/netcoreapp2.0/hello-world.deps.json
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/bin/Debug/netcoreapp2.0/hello-world.runtimeconfig.json
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/bin/Debug/netcoreapp2.0/hello-world.runtimeconfig.dev.json
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/bin/Debug/netcoreapp2.0/hello-world.dll
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/bin/Debug/netcoreapp2.0/hello-world.pdb
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/obj/Debug/netcoreapp2.0/hello-world.csproj.CoreCompileInputs.cache
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/obj/Debug/netcoreapp2.0/hello-world.AssemblyInfoInputs.cache
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/obj/Debug/netcoreapp2.0/hello-world.AssemblyInfo.cs
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/obj/Debug/netcoreapp2.0/hello-world.dll
+/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/obj/Debug/netcoreapp2.0/hello-world.pdb
