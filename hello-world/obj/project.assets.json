@@ -8087,11 +8087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/hello-world.csproj",
+      "projectUniqueName": "/Users/malikinkatha/dev/dotnet/dotnetcoreservices/hello-world/hello-world.csproj",
       "projectName": "hello-world",
-      "projectPath": "/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/hello-world.csproj",
+      "projectPath": "/Users/malikinkatha/dev/dotnet/dotnetcoreservices/hello-world/hello-world.csproj",
       "packagesPath": "/Users/malikinkatha/.nuget/packages/",
-      "outputPath": "/Users/malikinkatha/dev/dotnet/dotnet-core-book/hello-world/obj/",
+      "outputPath": "/Users/malikinkatha/dev/dotnet/dotnetcoreservices/hello-world/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
